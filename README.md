@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/pfsense-carp-vhid">pfsense-carp-vhid</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/pfsense-carp-vhid"><strong>https://abraxaslabs.tech/research/pfsense-carp-vhid</strong></a>
+</p>
+
 
 # pfsense-carp-vhid
 
